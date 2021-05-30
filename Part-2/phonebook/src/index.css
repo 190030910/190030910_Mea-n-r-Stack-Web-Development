@@ -1,0 +1,26 @@
+h2 {
+    color: Brown;
+    font-style: italic;  
+}
+.person {
+    padding-top: 6px;
+    font-size: 156px;
+}
+.info {
+    color: Yellow;
+    background: grey;
+    font-size: 22px;
+    border-style: solid;
+    border-radius: 6px;
+    padding: 12px;
+    margin-bottom: 12px;
+}
+.error {
+    color: Pink;
+    background: grey;
+    font-size: 22px;
+    border-style: solid;
+    border-radius: 6px;
+    padding: 12px;
+    margin-bottom: 12px;
+}
